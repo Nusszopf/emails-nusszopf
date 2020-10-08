@@ -1,0 +1,18 @@
+{
+  "name": "emails-nusszopf",
+  "version": "1.0.0",
+  "description": "Environment to create html email templates",
+  "private": "true",
+  "repository": "git@github.com:Nusszopf/emails-nusszopf.git",
+  "author": "schwamic <schwarz.michael@posteo.net>",
+  "license": "GNU General Public License v3.0",
+  "scripts": {
+    "build": "mjml"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "mjml": "4.7.1"
+  }
+}
