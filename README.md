@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://nusszopf.org">
+    <img src="./docs/1200x630.png" alt="Nusszopf logo" height="165">
+  </a>
+</p>
+
 # Nusszopf – E-Mail Templates
 
 All Emails are written with [mjml](https://mjml.io/).
