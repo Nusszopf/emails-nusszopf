@@ -1,0 +1,31 @@
+<mjml>
+  <mj-head>
+    <mj-title>Nussiger Newsletter – Abmeldebestätigung</mj-title>
+    <mj-font name="Barlow" href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;700&display=swap" />
+  </mj-head>
+  <mj-body background-color="#6396DC">
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" width="200px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="60px">
+      <mj-column width="600px" padding-left="6px" padding-right="6px">
+        <mj-text align="left" color="#6396DC" font-size="24px" font-family="Barlow" font-weight="700">Der Nusszopf liebt dich sowieso!</mj-text>
+        <mj-spacer height="10px" />
+        <mj-text align="left" color="#6396DC" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Bestätigte deine Abmeldung von dem Newsletter, indem Du auf den Button klickst. Wenn Du möchtest, kannst Du dich natürlich jederzeit wieder anmelden.
+        </mj-text>
+        <mj-spacer height="40px" />
+        <mj-button font-family="Barlow" background-color="#6396DC" color="white" font-weight="500" border-radius="100px" href="{{{unsubscribe_url}}}"> 
+          Abmelden bestätigen
+         </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#D1E3FC"> 
+      <mj-column width="600px" padding="0">
+        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#D1E3FC" color="#546E7A" text-decoration="underline" href="https://nusszopf.org/privacy">Datenschutzerklärung</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
