@@ -3,22 +3,19 @@
     <mj-title>Nusszopf – Nussig No. 1</mj-title>
     <mj-font name="Barlow" href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;700&display=swap" />
   </mj-head>
-  <mj-body background-color="#eceff1" padding-bottom="0px">
+  <mj-body background-color="#ECEFF1" padding-bottom="0px">
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column width="600px" padding="0">
-        <mj-image padding="0" width="200px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
+        <mj-image padding="0" width="180px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
       </mj-column>
-    </mj-section>
+    </mj-section> 
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="60px">
-      <mj-column width="600px" padding-left="6px" padding-right="6px">
-        <mj-text align="left" color="#263238" font-size="24px" font-family="Barlow" font-weight="700">Nussig No. 1</mj-text>
+      <mj-column width="600px" padding-left="10px" padding-right="10px">
+        <mj-text align="left" color="#37474F" font-size="24px" font-family="Barlow" font-weight="700">Nussig No. 1</mj-text>
         <mj-spacer height="10px" />
-        <mj-text align="left" color="#263238" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Wow, Du bist zum nussigsten Newsletter angemeldet! 
-          Das heißt, Du bist jetzt ein:e Nusszopfer:in in
-          ausgebackenster Form und wir könnten nicht glücklicher 
-          sein, dich beim Nusszopf willkommen zu heißen.</mj-text>
-        <mj-text align="left" color="#263238" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Wow, Du bist zum nussigsten Newsletter angemeldet! Wir freuen uns, dass Du dabei bist!</mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Gemeinsam wollen wir mehr Ideen verwirklichen, als
           je zuvor. Wir glauben an die Kraft von guten Ideen,
           die unser aller Leben besser machen, uns näher
@@ -26,35 +23,35 @@
           gemeinschaftlich Herausforderungen zu lösen und
           dabei Spaß zu haben.
         </mj-text>
-        <mj-text align="left" color="#263238" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Auch der Nusszopf ist ein Gemeinschaftsprojekt, das
           aus einer Idee entstanden ist, die zu gut war um sie
           wieder zu vergessen. Wir arbeiten gerade an der
           Finanzierung des Projektes, damit wir den Nusszopf
           professionell umsetzen können.
         </mj-text>
-        <mj-text align="left" color="#263238" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Gestalte den Nusszopf aktiv mit: Sag uns, was Du
           für deine Ideenumsetzungen brauchst, was dir fehlt
           und am besten helfen würde. Wir freuen uns über
           jeden Anstoß, das ist so sicher wie die Nuss im
           Zopf!
         </mj-text>
-        <mj-text align="left" color="#263238" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Backen wir uns die Welt, wie sie uns gefällt!
         </mj-text>
-        <mj-text align="left" color="#263238" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Dein Nusszopf Team
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#005C4C"> 
+    <mj-section background-color="#CFD8DC"> 
       <mj-column width="600px" padding="0">
-        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#005C4C" color="#b1eed7" text-decoration="underline" href="https://nusszopf.org/privacy">Datenschutzerklärung</mj-button>
+        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="https://nusszopf.org">nusszopf.org</mj-button>
       </mj-column>
       <mj-column width="600px" padding="0">
-        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#005C4C" color="#b1eed7" text-decoration="underline" href="{{{unsubscribe}}}">Newsletter abmelden</mj-button>
+        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="{{{unsubscribe}}}">Newsletter abmelden</mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
-</mjml> 
+</mjml>
