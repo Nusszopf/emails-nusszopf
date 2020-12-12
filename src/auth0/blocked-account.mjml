@@ -20,13 +20,13 @@
           Sicherheitshalber haben wir daher diese IP-Adresse blockiert, sodass sie nicht mehr versuchen kann, sich bei deinem Account anzumelden.
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Wenn Du versucht hast dich anzumelden, kannst Du deine IP-Adresse hier wieder freischalten, ansonsten musst du dir keine Gedanken machen, denn die fremde IP-Adresse ist und bleibt blockiert.
+          Wenn Du versucht hast dich anzumelden, kannst Du deine IP-Adresse hier wieder freischalten, ansonsten musst Du dir keine Gedanken machen, denn die fremde IP-Adresse ist und bleibt blockiert.
         </mj-text>
         <mj-spacer height="35px" />
         <mj-button font-family="Barlow" font-weight="500" font-size="15px" border="2px solid #37474F" color="#37474F" background-color="#ECEFF1" border-radius="100px" href="{{ url }}"> 
           Das bin ich!
         </mj-button>
-      </mj-column> 
+      </mj-column>
     </mj-section>
     <mj-section background-color="#CFD8DC"> 
       <mj-column width="600px" padding="0">
