@@ -8,15 +8,15 @@
       <mj-column width="600px" padding="0">
         <mj-image padding="0" width="180px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
       </mj-column>
-    </mj-section> 
+    </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="60px">
       <mj-column width="600px" padding-left="10px" padding-right="10px">
         <mj-text align="left" color="#37474F" font-size="24px" font-family="Barlow" font-weight="700">Nussig No. 1</mj-text>
         <mj-spacer height="10px" />
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Wow, Du bist zum nussigsten Newsletter angemeldet! Wir freuen uns, dass Du dabei bist!</mj-text>
+          Wow, Du bist jetzt zum nussigsten Newsletter angemeldet! Wir freuen uns, dass Du dabei bist!</mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Gemeinsam wollen wir mehr Ideen verwirklichen, als
+          Gemeinsam wollen wir mehr Ideen verwirklichen als
           je zuvor. Wir glauben an die Kraft von guten Ideen,
           die unser aller Leben besser machen, uns näher
           zusammen bringen und es uns ermöglichen,
@@ -26,16 +26,24 @@
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Auch der Nusszopf ist ein Gemeinschaftsprojekt, das
           aus einer Idee entstanden ist, die zu gut war um sie
-          wieder zu vergessen. Wir arbeiten gerade an der
-          Finanzierung des Projektes, damit wir den Nusszopf
-          professionell umsetzen können.
+          wieder zu vergessen. Wir arbeiten gerade an der ersten
+          Version des Netzwerks. Ab voraussichtlich Ende Februar
+          kannst Du dich dann dort anmelden, deine Ideen teilen,
+          Mitstreiter:in­nen und Ressourcen finden, wirst bei
+          deinen Projekten unterstützt und kannst anderen Nuss-
+          zopfer:innen bei deren Projekten helfen.
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Gestalte den Nusszopf aktiv mit: Sag uns, was Du
-          für deine Ideenumsetzungen brauchst, was dir fehlt
-          und am besten helfen würde. Wir freuen uns über
-          jeden Anstoß, das ist so sicher wie die Nuss im
-          Zopf!
+          Wir brauchen natürlich euer Feedback und ganz viele Test-
+          personen sobald die erste Version fertig ist, wenn Du
+          also Lust hast, mit uns die Version zu testen und weiter
+          zu entwickeln, schreibe uns einfach!
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Gestalte den Nusszopf auch sonst aktiv mit: Sag uns,
+          was Du für deine Ideenumsetzungen brauchst, was dir fehlt
+          und am besten helfen würde. Wir freuen uns über jeden
+          Gedanken, das ist so sicher wie die Nuss im Zopf!
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Backen wir uns die Welt, wie sie uns gefällt!
@@ -45,7 +53,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#CFD8DC"> 
+    <mj-section background-color="#CFD8DC">
       <mj-column width="600px" padding="0">
         <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="https://nusszopf.org">nusszopf.org</mj-button>
       </mj-column>
