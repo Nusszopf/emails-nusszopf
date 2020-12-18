@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-title>Nusszopf – Nussiger Newsletter</mj-title>
+    <mj-font name="Barlow" href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;700&display=swap" />
+  </mj-head>
+  <mj-body background-color="#ECEFF1" padding-bottom="0px">
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" width="180px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="60px">
+      <mj-column width="600px" padding-left="10px" padding-right="10px">
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          {{{nz_welcome}}},
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          {{{nz_message}}}
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          {{{nz_greeting}}}
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          {{{nz_author}}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFD8DC"> 
+      <mj-column width="600px" padding="0">
+        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="https://nusszopf.org">nusszopf.org</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
