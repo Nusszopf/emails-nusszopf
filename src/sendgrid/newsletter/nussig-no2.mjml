@@ -1,0 +1,68 @@
+<mjml>
+  <mj-head>
+    <mj-title>Nusszopf – Nussig No. 2</mj-title>
+    <mj-font name="Barlow" href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;700&display=swap" />
+  </mj-head>
+  <mj-body background-color="#ECEFF1" padding-bottom="0px">
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" width="180px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="60px">
+      <mj-column width="600px" padding-left="10px" padding-right="10px">
+        <mj-text align="left" color="#37474F" font-size="24px" font-family="Barlow" font-weight="700">Nussig No. 2</mj-text>
+        <mj-spacer height="10px" />
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Liebe Nusszopfer:innen,
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Das Jahr 2020 neigt sich dem Ende und es ist Zeit für einen neuen Newsletter! 
+          Die beste Nachricht gleich zu Beginn: Seit dem letzten Nusszopf-Lebenszeichen 
+          ist wie immer viel passiert. Ende Februar soll die Plattform, das Netzwerk, 
+          der eigentliche Nusszopf online und benutzbar sein. Dann können wir alle unsere 
+          Ideen und Projekte anlegen, Gesuche mit Kategorien erstellen für die Ressourcen, 
+          die wir benötigen, Suchanfragen nach ähnlichen Projekten starten und interessante 
+          Projekte kontaktieren. Yeah!
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Dieses Jahr war durch und durch ein Nusszopfjahr für uns: Im Februar haben wir unsere 
+          Plattformfunktionsideen mit euch an der Werkschau der Hochschule Augsburg bewertet 
+          und priorisiert. Dann haben wir die Funktionen heruntergebrochen auf die wesentliche 
+          Essenz, eine Marke erstellt, eine Infowebseite kreiert, den Newsletter ins Leben gerufen, 
+          uns bei Förderungswettbewerben beworben, Gründungsformen recherchiert und wir sind 
+          noch längst nicht am Ziel.
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Wir finalisieren gerade noch die letzten Feinheiten der Nutzungsoberfläche und programmieren 
+          sie parallel in die Realität. Wir können es kaum erwarten, bis der Nusszopf und die anderen 
+          Nusszopfer:innen euch bei euren tollen Ideen unterstützen können und arbeiten fleißig auf 
+          unseren großen Meilenstein hin. 
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Wir freuen uns schon so sehr auf den Moment, auf den wir seit anderthalb Jahren hinarbeiten, 
+          wir freuen uns auf euch, wenn ihr den Nusszopf benutzt und mit gestaltet, wir freuen uns auf 
+          ein neues Jahr mit neuen Wegen, Ideen und Gedanken. 
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          In diesem Sinne: Nur das Beste wünschen wir euch für das neue Jahr und ruhige Tage zum Erholen. 
+          Danke, dass ihr mit dabei seid beim Nusszopf.
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Allerliebste Grüße,
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Euer Nusszopf Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFD8DC">
+      <mj-column width="600px" padding="0">
+        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="https://nusszopf.org">nusszopf.org</mj-button>
+      </mj-column>
+      <mj-column width="600px" padding="0">
+        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="{{{ unsubscribe }}}">Newsletter abmelden</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
