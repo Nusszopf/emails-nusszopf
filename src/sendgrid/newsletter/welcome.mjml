@@ -37,7 +37,7 @@
           Wir brauchen natürlich euer Feedback und ganz viele Testpersonen
           sobald die erste Version fertig ist, wenn Du
           also Lust hast, mit uns die Version zu testen und weiter
-          zu entwickeln, schreibe uns einfach unter <a target="_blank" style="color: #37474F;" href="mailto:mail@nusszopf.org">mail@nusszopf.org</a>!
+          zu entwickeln, schreibe uns einfach unter <a target="_blank" style="color: #37474F; text-decoration: underline;" href="mailto:mail@nusszopf.org">mail@nusszopf.org</a>!
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Gestalte den Nusszopf auch sonst aktiv mit: Sag uns,
@@ -53,13 +53,12 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#CFD8DC">
-      <mj-column width="600px" padding="0">
-        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="https://nusszopf.org">nusszopf.org</mj-button>
-      </mj-column>
-      <mj-column width="600px" padding="0">
-        <mj-button padding="0" font-family="Barlow" font-weight="500" font-size="12px" background-color="#CFD8DC" color="#37474F" text-decoration="underline" href="{{{ unsubscribe }}}">Newsletter abmelden</mj-button>
-      </mj-column>
+    <mj-section background-color="#CFD8DC"> 
+      <mj-column padding="0">
+        <mj-text align="center" font-family="Barlow" font-weight="500" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/contact/nusszopf-vcard.vcf">Nusszopf als Kontakt speichern</a></mj-text>
+        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" color="#263238" font-size="12px" line-height="18px">Schreibe uns an: <a target="_blank" style="color: #263238; text-decoration: underline;" href="mailto:mail@nusszopf.org">mail@nusszopf.org</a></mj-text>
+        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" color="#263238" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/privacy">Datenschutzerklärung</a> / <a target="_blank" style="color: #263238;" href="{{{ unsubscribe }}}">Newsletter abmelden</a> / <a target="_blank" style="color: #263238;" href="https://nusszopf.org">nusszopf.org</a></mj-text>
+      </mj-columd>
     </mj-section>
   </mj-body>
 </mjml>
