@@ -10,7 +10,7 @@
         padding: 12px !important;
       }
     </mj-style>
-  </mj-head> 
+  </mj-head>
   <mj-body background-color="#ECEFF1" padding-bottom="0px">
   <mj-wrapper padding-top="0px" padding-bottom="0" background-color="#ffffff">
     <mj-section padding-bottom="60px">
@@ -18,10 +18,18 @@
         <mj-image padding="0" width="180px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
       </mj-column>
       <mj-column width="600px" padding-left="10px" padding-right="10px">
-        <mj-text align="left" color="#37474F" font-size="24px" font-family="Barlow" font-weight="700">Nachricht zu {{project_title}}</mj-text>
+        <mj-text align="left" color="#37474F" font-size="24px" font-family="Barlow" font-weight="700">
+          Nussige Nachricht
+        </mj-text>
         <mj-spacer height="10px" />
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Eine nussige Nachricht wurde an das Projekt <strong>{{project_title}}</strong> geschickt!
+          Eine nussige Nachricht wurde an das Projekt <strong>
+          {{#greaterThan (length request_title) 0}}
+          {{@root.project_title}} / {{@root.request_title}}
+          {{else}}
+          {{@root.project_title}}
+          {{/greaterThan}}
+          </strong> geschickt! 
         </mj-text>
       </mj-column>
       <mj-column width="600px" padding-left="10px" padding-right="10px">
