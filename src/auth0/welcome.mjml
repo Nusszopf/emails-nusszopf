@@ -24,7 +24,7 @@
           für deine Ideenumsetzungen brauchst, was dir fehlt
           und am besten helfen würde. Wir freuen uns über
           jeden Anstoß, das ist so sicher wie die Nuss im
-          Zopf! 
+          Zopf!
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Backen wir uns die Welt, wie sie uns gefällt!
@@ -40,10 +40,22 @@
     </mj-section>
     <mj-section background-color="#CFD8DC"> 
       <mj-column padding="0">
-        <mj-text align="center" font-family="Barlow" font-weight="500" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/contact/nusszopf-vcard.vcf">Nusszopf als Kontakt speichern</a></mj-text>
-        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" color="#263238" font-size="12px" line-height="18px">Schreibe uns an: <a target="_blank" style="color: #263238; text-decoration: underline;" href="mailto:mail@nusszopf.org">mail@nusszopf.org</a></mj-text>
-        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" color="#263238" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/privacy">Datenschutzerklärung</a> / <a target="_blank" style="color: #263238;" href="https://nusszopf.org">nusszopf.org</a></mj-text>
-      </mj-columd>
+        <mj-text align="center" font-family="Barlow" font-weight="500" font-size="12px" line-height="18px">
+          <a target="_blank" title="Zu Instagram" style="text-decoration: none;" href="https://www.instagram.com/nuss.zopf/">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+          </a>
+          <span style="padding-right: 16px;"></span>
+          <a target="_blank" title="E-Mail schreiben" style="text-decoration: none;" href="mailto:mail@nusszopf.org">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+          </a>
+          <span style="padding-right: 16px;"></span>
+          <a target="_blank" title="Zum Nusszopf" style="text-decoration: none;" href="https://nusszopf.org">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+          </a>
+        </mj-text>
+        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/contact/nusszopf-vcard.vcf">Nusszopf als Kontakt speichern</a></mj-text>
+        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" color="#263238" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/privacy">Datenschutzerklärung</a></mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
