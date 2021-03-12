@@ -26,17 +26,16 @@
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Auch der Nusszopf ist ein Gemeinschaftsprojekt, das
           aus einer Idee entstanden ist, die zu gut war um sie
-          wieder zu vergessen. Wir arbeiten gerade an der ersten
-          Version des Netzwerks. Ab voraussichtlich Ende Februar
-          kannst Du dich dann dort anmelden, deine Ideen teilen,
-          Mitstreiter:in­nen und Ressourcen finden, wirst bei
-          deinen Projekten unterstützt und kannst anderen Nusszopfer:innen 
-          bei deren Projekten helfen.
+          wieder zu vergessen. Ende Februar 2021 wurde dann die
+          erste Version des Netzwerks unter https://nusszopf.org/ veröffentlicht.  
+          Dort kannst Du dich anmelden, deine Ideen teilen, Mitstreiter:innen 
+          und Ressourcen finden, wirst bei deinen Projekten unterstützt  
+          und kannst anderen Nusszopfer:innen bei deren Projekten helfen.
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
-          Wir brauchen natürlich euer Feedback und ganz viele Testpersonen
-          sobald die erste Version fertig ist, wenn Du
-          also Lust hast, mit uns die Version zu testen und weiter
+          Wir brauchen natürlich stetig euer Feedback und ganz viele Testpersonen
+          für diese erste Version, wenn Du also Lust hast, 
+          mit uns die Plattform zu testen und weiter
           zu entwickeln, schreibe uns einfach unter <a target="_blank" style="color: #37474F; text-decoration: underline;" href="mailto:mail@nusszopf.org">mail@nusszopf.org</a>!
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
@@ -50,6 +49,9 @@
         </mj-text>
         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
           Dein Nusszopf Team
+        </mj-text>
+         <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Nachschub: Den Nusszopf gibt es auch auf Instagram unter: https://www.instagram.com/nuss.zopf/. Wir freuen uns auf dich!
         </mj-text>
       </mj-column>
     </mj-section>
