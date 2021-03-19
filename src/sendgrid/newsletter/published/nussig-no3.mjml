@@ -1,0 +1,118 @@
+<mjml>
+  <mj-head>
+    <mj-title>Nusszopf – Nussig No. 3</mj-title>
+    <mj-font name="Barlow" href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;700&display=swap" />
+  </mj-head>
+  <mj-body background-color="#ECEFF1" padding-bottom="0px">
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" width="180px" src="http://cdn.mcauto-images-production.sendgrid.net/ff640e3a8c269304/93dcce17-bb5d-419c-bcdf-7139c0f3c4c6/1200x1200.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="60px">
+      <mj-column width="600px" padding-left="10px" padding-right="10px">
+        <mj-text align="left" color="#37474F" font-size="24px" font-family="Barlow" font-weight="700">Nussig No. 3</mj-text>
+        <mj-spacer height="10px" />
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Allerliebste Nusszopffreund:innen,
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Heissa und juche, es ist so weit! Der Nusszopf ist online und wartet unter der gewohnten 
+          Internetadresse <a target="_blank" style="color: #263238;" href="https://nusszopf.org">https://nusszopf.org</a> auf euch und eure Projekte! Wir sind sehr stolz und 
+          freuen uns riesig, diese tollen Neuigkeiten und ein nussiges Netzwerk mit euch teilen zu können. 
+          Was euch alles auf der Plattform erwartet und was es sonst noch Neues gibt:
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          1. NEUE NUSSZOPF-FUNKTIONEN 
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          <b>Projektsuche:</b> Ihr könnt jetzt in der Projektsuche (ohne einen Account anzulegen) nach spannenden Projekten zum 
+          Mitmachen oder zur Inspiration suchen und diese bei Interesse kontaktieren. Entweder haben die Projekte 
+          eine E-Mailadresse hinterlegt oder der Nusszopf übernimmt die Kommunikation für euch. So unkompliziert konnte man sich noch nie Projekten anschließen sagen wir euch!
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          <b>Eigene Projekte:</b> Natürlich könnt ihr im Nusswerk eure eigenen inspirierenden Projekte anlegen. Hierfür ist die kostenlose 
+          Erstellung eines Accounts nötig. Ihr werdet durch den kompletten Erstellungsprozess begleitet und habt 
+          ausreichend Platz, um euer Projekt und dessen Ziel zu beschreiben. Besonders wichtig sind bei den 
+          Projekten die sogenannten GESUCHE. In verschiedenen Kategorien wie z.B. „Mitstreiter:innen” oder 
+          „Räume” könnt ihr entsprechende Gesuche anlegen und genau beschreiben, wen oder was ihr für eure 
+          erfolgreiche Projektumsetzung noch braucht. So können andere Nusszopfer:innen auf einen Blick sehen, 
+          wie sie zu eurem Projekt beitragen können.
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          2. NETZWERKAUFBAU
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Die guten Nachrichten reißen nicht ab: Wir sind aktuell in einer großen Netzwerk- und Außenkommunikationsphase, 
+          die uns jetzt bestimmt fortan dauerhaft begleiten wird. Unser Ziel ist es jetzt natürlich den Nusszopf so 
+          bekannt und benutzt wie möglich zu machen. Hierfür freuen wir uns sehr über alle Unterstützung von euch. 
+          Benutzt den Nusszopf, teilt und verbreitet ihn überall, damit wir möglichst viele tolle Menschen auf der 
+          Plattform vereinen können.
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Unsere aktuellen Pläne umfassen gerade auch die Verbindung vom Nusszopf mit Organisationen, Vereinen und 
+          anderen Netzwerken mit tollen Ideen. Wenn ihr relevante Projekte kennt, die vielleicht auch für eine 
+          Kooperation spannend wären, schickt uns gerne eine E-Mail an <a target="_blank" style="color: #263238;" href="mailto:mail@nusszopf.org">mail@nusszopf.org</a>. 
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          3. INSTAGRAM
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Seit circa einer Woche ist der Nusszopf auch auf Instagram unter dem Namen <a target="_blank" style="color: #263238;" href="https://www.instagram.com/nuss.zopf">@nuss.zopf</a>
+          zu finden. Hier stellen wir den Nusszopf, unser Team, Projekte und Interessantes rund um Ideen vor, sowie 
+          die neuesten Nusszopfnews. Auch hier freuen wir uns auf euch als unterstützende und mitgestaltende Fans.
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          4. WEITERENTWICKLUNG & FEEDBACK
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Wie immer freuen wir uns sehr auf euer Feedback zum Nusszopf. Was gefällt euch, was passt gut und was vielleicht 
+          nicht so sehr? Wo seht ihr Verbesserungs- und Ergänzungsbedarf? Der Nusszopf befindet sich aktuell in seiner 
+          reduziertesten Form. Der Plan ist ihn zukünftig durch Funktionen zu erweitern und eventuell Dinge auch wieder 
+          komplett zu verändern, wenn sie nicht zu euren Bedürfnissen als Nusszopfer:innen passen. Freuen uns sehr über 
+          euren Input. 
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          5. MITMACHEN BEIM NUSSZOPF-TEAM
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Wenn euch die Idee vom Nusszopf gefällt, könnt ihr euch gerne dem Nusszopf-Team anschließen und ihn so noch aktiver 
+          mitgestalten! Nach dem Meilenstein Plattformveröffentlichung können wir es kaum erwarten, begeisterte Nusszopfer:innen 
+          mit ins Team zu holen. Schreibt uns bei Interesse einfach eine E-Mail an <a target="_blank" style="color: #263238;" href="mailto:team@nusszopf.org">team@nusszopf.org</a>. Ihr könnt gerne schon 
+          einmal ein bisschen zu euch erzählen und, wenn ihr es schon wisst, in welchem Themenbereich ihr Spaß hättet den 
+          Nusszopf zu unterstützen. Wir sind uns sicher, wir finden da was Spannendes für euch, bei einem Nusszopf hat man 
+          alle Hände voll zu tun in den verschiedensten Bereichen :)
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Wow, so viele nussige Neuigkeiten! Wir hoffen, euch geht es gut und dass wir irgendwann dieses Jahr vielleicht einmal 
+          auf das Netzwerk, euch und viele tolle Ideen anstoßen können. Danke, dass ihr ein Teil vom Nusszopf seid!
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          Backen wir uns die Welt wie sie uns gefällt,
+        </mj-text>
+        <mj-text align="left" color="#37474F" font-size="16px" font-family="Barlow" font-weight="500" line-height="22px">
+          euer Nusszopf-Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFD8DC"> 
+      <mj-column padding="0">
+        <mj-text align="center" font-family="Barlow" font-weight="500" font-size="12px" line-height="18px">
+          <a target="_blank" title="Zu Instagram" style="text-decoration: none;" href="https://www.instagram.com/nuss.zopf/">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+          </a>
+          <span style="padding-right: 16px;"></span>
+          <a target="_blank" title="E-Mail schreiben" style="text-decoration: none;" href="mailto:mail@nusszopf.org">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+          </a>
+          <span style="padding-right: 16px;"></span>
+          <a target="_blank" title="Zum Nusszopf" style="text-decoration: none;" href="https://nusszopf.org">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#263238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+          </a>
+        </mj-text>
+        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/contact/nusszopf-vcard.vcf">Nusszopf als Kontakt speichern</a></mj-text>
+        <mj-text align="center" padding-top="0" font-family="Barlow" font-weight="500" color="#263238" font-size="12px" line-height="18px"><a target="_blank" style="color: #263238; text-decoration: underline;" href="https://nusszopf.org/privacy">Datenschutzerklärung</a> / <a target="_blank" style="color: #263238;" href="{{{ unsubscribe }}}">Newsletter abmelden</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
